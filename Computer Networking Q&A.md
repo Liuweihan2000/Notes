@@ -484,4 +484,4 @@ ARP表：LAN中**每个**IP节点(主机/路由器)维护的一个表，本质�
 
 
 
-![binary_framing_layer01](D:\rsc\Notes\Computer Networking Q&A.assets\binary_framing_layer01.svg)
+![binary_framing_layer01](./Computer Networking Q&A.assets/binary_framing_layer01.svg)
